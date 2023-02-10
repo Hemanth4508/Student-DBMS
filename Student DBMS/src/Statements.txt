@@ -1,0 +1,35 @@
+Java Project
+create project with name Student DBMS
+create Package with  name sdbms
+create class with  name Solution.java
+create interface using below statement 
+
+    ---------------------------------------
+	|  <<StudentManagementSystem>>		   |
+    ---------------------------------------	
+	|	addStudent()            :		   |
+	|	displayStudent()		:		   |
+	|	displayAllStudents()	:          |
+	|	removeStudent()			:          |
+	|	removeAllStudents()		:          |
+	|	updateStudent()			:          |
+	|	countStudent()			:          |
+	|	sortStudents()			:	       |
+	|                                      |
+    ----------------------------------------
+    
+ create StudentManagementSystemImp class which extends the StudentManagementSystem 
+ Interface and Override all the unImplemented methods
+    
+    
+    
+	
+	
+	
+	------------------------------------------------------------------------------------------------	
+		NAMING CONVENTIONS
+		1.class    --->   Car, AudiCar, SortStudentByAge.
+		2.Variable --->   age, studentAge, noOfStudents.
+		3.Method   --->   display(), showDeatails(), checkEvenOrOdd()
+		4.Package  --->   Lower case, --> com, org, jspiders.
+		constants  --->    final variables -->PT,EMPID
