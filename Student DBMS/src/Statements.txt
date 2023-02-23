@@ -20,7 +20,25 @@ create interface using below statement
     
  create StudentManagementSystemImp class which extends the StudentManagementSystem 
  Interface and Override all the unImplemented methods
-    
+ 
+ 
+ Now create the Student class with in SDBMS package with below Properties.
+            
+            ----------------------------
+            |        Student           |
+             ---------------------------
+			| String id;     `		   |
+			| int age;                 |
+	        | String name;             | 
+            | double marks;            |
+            |                          |
+            ----------------------------
+            
+           With in the same class 
+           
+           
+  next to do
+  
     
     
 	
@@ -33,3 +51,7 @@ create interface using below statement
 		3.Method   --->   display(), showDeatails(), checkEvenOrOdd()
 		4.Package  --->   Lower case, --> com, org, jspiders.
 		constants  --->    final variables -->PT,EMPID
+		
+	-----------------------------------------------------------------------------------------------------
+	
+	

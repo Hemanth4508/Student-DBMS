@@ -40,11 +40,11 @@ public class Student {
 		this.name=name;
 		
 	}
-	public double getMarks()
+	public Double getMarks()
 	{
 		return this.marks;
 	}
-	public void setMarks(int marks)
+	public void setMarks(double marks)
 	{
 		this.marks=marks;
 	}
